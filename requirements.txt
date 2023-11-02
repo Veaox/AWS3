@@ -1,0 +1,8 @@
+boto3==1.26.119
+botocore==1.29.119
+jmespath==1.0.1
+python-dateutil==2.8.2
+python-environ==0.4.54
+s3transfer==0.6.0
+six==1.16.0
+urllib3==1.26.15
